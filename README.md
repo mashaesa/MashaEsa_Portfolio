@@ -22,7 +22,7 @@ My journey into **data analytics began in 2019**, when I developed **automated t
 
 ### Technical Proficiency  
 - **Programming & Analytics:** Python (Pandas, NumPy, Matplotlib, Scikit-learn, TA-Lib), SQL (PostgreSQL, T-SQL, SQLAlchemy, SSMS).  
-- **Data Visualisation & BI:** Power BI (Advanced DAX, Power Query), Excel (Power Pivot, Macros), Plotly, Seaborn.  
+- **Data Visualisation & BI:** Power BI (Advanced DAX, Power Query), Looker Studios, Excel (Power Pivot, Macros), Plotly, Seaborn.  
 - **Machine Learning & Forecasting:** Regression models, clustering, Prophet, ARIMA, XGBoost.  
 - **Process Automation:** Python APIs, ETL pipelines, workflow optimisation.  
 - **Cloud & Databases:** Microsoft Azure (PL-900 Certified), AWS, Docker.  
