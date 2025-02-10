@@ -1,10 +1,8 @@
 # Masha Esa  
 
-## 🌟 Data Analyst | AI & Automation Enthusiast | Financial & Business Intelligence  
+### 🌟 Data Analyst with a strong foundation in the financial markets, and business intelligence. I aim to further develop my expertise in AI and statistical modelling, with the goal of eventually transitioning into a **Data Scientist role**.  
 
-Data Analyst with a **strong foundation in financial markets, predictive modelling, and business intelligence**. My expertise lies in **data storytelling, automation, and AI-driven insights**, with a track record of **building scalable solutions that drive revenue growth and operational efficiency**.  
-
-My journey into **data analytics began in 2019**, when I developed **automated trading strategies and risk assessment models** for financial markets. This sparked my passion for **data-driven decision-making**, leading me to formalise my expertise through **advanced analytics projects, business intelligence solutions, and machine learning applications**.  
+My journey into **data analytics began in 2019**, when I developed **automated trading strategies and risk assessment models** for financial markets. This sparked my passion for **data-driven decision-making**, leading me to formalise my expertise through **advanced analytics projects, business intelligence solutions, and machine learning applications**.   
 
 ### Core Specialisms  
 - Data Storytelling & Visualisation – Transforming raw data into impactful insights.  
